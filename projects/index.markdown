@@ -1,7 +1,6 @@
 ---
 layout: project
-title: All Projects
+title: Tous mes projets
 excerpt: "A List of Projects"
 comments: false
 ---
-
