@@ -1,7 +1,7 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Mon Portfolio
+bio: "Je suis un jeune belge de 25 ans, apprenant en developpement web. Je suis une formation IFAPME dans ce domaine et cherche actuellement un stage."
+description: "Voici mon portfolio, ici se trouveront tous mes projets réalisés en tant qu'apprenant en web development"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
@@ -15,15 +15,15 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    enable_coderay: false
 mathjax: true
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed
 
 # Comments
 
@@ -63,30 +63,30 @@ linkedin: www.linkedin.com/in/florian-marchal-a61052151
 
 # Plugins
 plugins:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-include-cache
+    - jekyll-mentions
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
+    - jekyll-seo-tag
+    - jekyll-paginate
+    - jekyll-include-cache
 
 jekyll-mentions:
-  base_url: https://github.com
+    base_url: https://github.com
 
 # Exclude list
 exclude:
-  [
-    README.md,
-    Gemfile,
-    Gemfile.lock,
-    node_modules,
-    gulpfile.js,
-    package.json,
-    _site,
-    src,
-    vendor,
-    CNAME,
-    LICENSE,
-    Rakefile,
-  ]
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        LICENSE,
+        Rakefile,
+    ]
