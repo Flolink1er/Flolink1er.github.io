@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Projet Film
+excerpt: "A List of Projects"
 comments: false
 ---
 
