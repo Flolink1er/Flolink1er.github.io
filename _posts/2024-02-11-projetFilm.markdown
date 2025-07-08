@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Projet Film
 date: 2024-02-11
 excerpt: "Un projet HTML/CSS pour présenter un film"
