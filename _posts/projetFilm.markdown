@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Projet Film
+date: 2024-02-11
 excerpt: "Un projet HTML/CSS pour présenter un film"
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
