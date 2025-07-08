@@ -76,6 +76,12 @@ plugins:
 jekyll-mentions:
     base_url: https://github.com
 
+#Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
 # Exclude list
 exclude:
     [
