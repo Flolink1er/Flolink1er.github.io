@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Projet Film
 excerpt: "Un projet HTML/CSS pour présenter un film"
 feature: http://i.imgur.com/Ds6S7lJ.png
